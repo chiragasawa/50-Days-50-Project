@@ -26,8 +26,8 @@ body {
 }
 .circle-container {
   position: fixed;
-  top: -800px;
-  left: -800px;
+  top: -100px;
+  left: -100px;
 }
 .circle {
   width: 200px;
